@@ -1,0 +1,42 @@
+Mini project
+
+Title: Student record management system
+
+Project Description
+    A Simple Student Record Management System using java with a graphical user interface(G.U.I)
+
+Features to include:
+    Student Information:
+        Allow users to input and Display
+            student information including
+                name,
+                roll number,
+                address and,
+                contact details.
+
+    Course Registration:
+        Implement a feature that enables students to register for courses.
+        Each course should have a name, code, and credit hours.
+
+    Grade Management:
+        Allow instructors to assign grades (Example A,B,C) to students for each registered course.
+
+    Calculate the GPA for each student based on their grades and credit hours.
+
+    Data Storage:
+        Use File I/O to save and load student records. Students should be able to save and load records from a file(Example a text file)
+    Search and Display:
+        Implement a search feature that lets users find a specific student's information by roll number.
+        Display the results in a clean and organized manner.
+
+GUI Interface:
+    create a user-friendly GUI with text fields, buttons and labels to interact with the application.
+    Use java's Swing library for the GUI components.
+
+Additional Suggestions:
+    Provide error handling for cases like duplicate roll numbers, missing data, or invalid input.
+    Add the ability to update and delete student records.
+    implement a course management feature where instructors can add and remove courses.
+    Allow for sorting and filtering of student records.
+    Include a feature to calculate class statistics, such as average GPA or highest GPA/
+    Provide a user manual or help section within the application.
